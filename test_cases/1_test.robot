@@ -18,4 +18,3 @@ Login to webpage
     [Setup]  Open browser and maximize  ${user_url}  ${user_browser}
     [Teardown]  Close browser and log
     Login to webpage
-
