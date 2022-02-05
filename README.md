@@ -8,15 +8,17 @@
 
 
 Bot run procedures of Sign in and Log in to https://www.thetestingworld.com/testings/
+
+
 ## Getting Started
 
 1. Download or clone repository </br> `https://github.com/peperd/thetestingworld.git`
 2. Install venv </br> `$ pip install virtualenv`
 3. Install Robotframework </br> `$ Pip install robotframework`
 4. Install wxPython </br> `$ pip install –u wxPython`
-5. Run 1_test.robot </br> `$ robot [options] 1_test.robot`
-6. 1_test.robot will open browser and open `https://www.thetestingworld.com/testings/`
-7. After all procedures performed by Robotframework there will be log.html output.html and report.html files with all data about running tests.
+5. Run `1_test.robot` </br> `$ robot [options] 1_test.robot`
+6. `1_test.robot` will open `https://www.thetestingworld.com/testings/` in Chrome browser
+7. After all procedures performed by ***Robotframework*** there will be `log.html`,  `output.html` and `report.html` files with all data about running tests.
 
 
 ### Prerequisites
