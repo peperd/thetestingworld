@@ -5,6 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/peperd/thetestingworld&left_color=green&right_color=red)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scrapy)
 ![Robotframework](https://img.shields.io/badge/Robotframework-black?style=plastic&logo=Robotframework)
+![Black](https://img.shields.io/badge/code_style-black-black)
 
 
 Bot run procedures of Sign in and Log in to https://www.thetestingworld.com/testings/
@@ -14,7 +15,7 @@ Bot run procedures of Sign in and Log in to https://www.thetestingworld.com/test
 
 1. Download or clone repository </br> `https://github.com/peperd/thetestingworld.git`
 2. Install venv </br> `$ pip install virtualenv`
-3. Install Robotframework </br> `$ Pip install robotframework`
+3. Install Robotframework </br> `$ pip install robotframework`
 4. Install wxPython </br> `$ pip install –u wxPython`
 5. Run `1_test.robot` </br> `$ robot [options] 1_test.robot`
 6. `1_test.robot` will open `https://www.thetestingworld.com/testings/` in Chrome browser
