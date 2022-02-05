@@ -20,6 +20,9 @@ Bot run procedures of Sign in and Log in to https://www.thetestingworld.com/test
 6. `1_test.robot` will open `https://www.thetestingworld.com/testings/` in Chrome browser
 7. After all procedures performed by ***Robotframework*** there will be `log.html`,  `output.html` and `report.html` files with all data about running tests.
 
+_Test results:_<br>
+![log_file](images/log_file.png) <br>
+![report_file](images/report_file.png)
 
 ### Prerequisites
 1. You need `python 3.3+` to be installed
